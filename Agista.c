@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("");
+printf("Agista");
+return 0;
 }
